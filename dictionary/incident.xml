@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="256" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="Process" max_length="32" name="x_snc_createnotes_process" reference="sysevent_email_action" type="reference"/>
+    </element>
+</database>

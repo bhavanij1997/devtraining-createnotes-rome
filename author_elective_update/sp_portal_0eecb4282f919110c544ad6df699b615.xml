@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage/>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 12:57:07</sys_created_on>
+        <sys_id>0eecb4282f919110c544ad6df699b615</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CreateNotes</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_portal_0eecb4282f919110c544ad6df699b615</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 12:57:07</sys_updated_on>
+        <theme/>
+        <title>CreateNotes</title>
+        <ts_index_group/>
+        <url_suffix>notes</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=0eecb4282f919110c544ad6df699b615"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>afece7e9db3bef402f68c597059619e6</instance_id>
+        <instance_name>dev73315</instance_name>
+        <name>sp_portal_0eecb4282f919110c544ad6df699b615</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><enable_ais>false</enable_ais><enable_favorites>false</enable_favorites><hide_portal_name>false</hide_portal_name><homepage/><icon/><kb_knowledge_base/><kb_knowledge_page/><login_page/><logo/><notfound_page/><quick_start_config/><sc_catalog/><sc_catalog_page/><sc_category_page/><search_application/><search_results_configuration/><sp_chat_queue/><sp_rectangle_menu/><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-10 12:57:07</sys_created_on><sys_id>0eecb4282f919110c544ad6df699b615</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CreateNotes</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sp_portal_0eecb4282f919110c544ad6df699b615</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-10 12:57:07</sys_updated_on><theme/><title>CreateNotes</title><ts_index_group/><url_suffix>notes</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=0eecb4282f919110c544ad6df699b615"/></record_update>]]></payload>
+        <payload_hash>681883750</payload_hash>
+        <record_name>CreateNotes</record_name>
+        <reverted_from/>
+        <source>21aeaff52fc95110c544ad6df699b67c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 12:57:07</sys_created_on>
+        <sys_id>3d3d78282f919110c544ad6df699b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18287d484260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 12:57:07</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>753d78289291911014db993d640d6aad</update_guid>
+        <update_guid_history>753d78289291911014db993d640d6aad:681883750</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CreateNotes">494701202fd19110c544ad6df699b68f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 13:41:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>258b92d64ead401885d79d56cd46e3a1</sys_id>
+        <sys_metadata>0eecb4282f919110c544ad6df699b615</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CreateNotes</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_portal_0eecb4282f919110c544ad6df699b615</sys_update_name>
+        <sys_update_version display_value="sp_portal_0eecb4282f919110c544ad6df699b615">3d3d78282f919110c544ad6df699b6ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 13:41:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
